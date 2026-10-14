@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Player</string>
+    <string name="http">HTTP</string>
+    <string name="stream">STREAM</string>
+    <string name="sd">SD</string>
+    <string name="uri">URI</string>
+    <string name="raw">RAW</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="stop">STOP</string>
+    <string name="loop">LOOP</string>
+    <string name="backward">BACK</string>
+    <string name="forward">FORW</string>
+    <string name="info">INFO</string>
+</resources>
